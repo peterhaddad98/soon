@@ -4,7 +4,6 @@ Author URL: http://webthemez.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
-
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600);
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
 body {
@@ -64,7 +63,7 @@ small {
 	padding:0 5px;
 }
 a {
-	color: #ffffff;
+	color: rgba(255, 255, 255, 0.57);
 	text-decoration:none;	
 }
 a:hover {
